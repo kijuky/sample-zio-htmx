@@ -1,4 +1,4 @@
-# Scala ZIO + HTMX
+# Sample [ZIO](https://zio.dev/zio-http/) + [HTMX](https://htmx.org/)
 
 # Usage
 

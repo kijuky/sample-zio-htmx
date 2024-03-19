@@ -2,7 +2,7 @@ import zio.*
 import zio.http.*
 import zio.http.template.*
 
-object BFF extends ZIOAppDefault:
+object Main extends ZIOAppDefault:
   override val run: Task[Nothing] =
     Server
       .serve(
